@@ -1,0 +1,16 @@
+TEORIYA
+
+a) HTTP ingliz tilidagi «Hyper Text Transfer Protocol» so’zlarining bosh harflaridan olingan.
+Oxirida qo’shiladigan S qo’shimchasi esa «Secure» so’zining bosh harfi hisoblanadi.
+Aslida HTTPS – bu HTTP protokolining xavfsiz shakli bo’lib, HTTPdan farqli ravishda HTTPS protokolida barcha murojaatlar kodlangan shaklda yuboriladi.
+
+b)IoC (Inversion of Control) objectlarning yaratilishi, servicelarini va yakunlanishini nazorat qiluvchi pattern.
+Dependency-Injection (DI) pattern IoC ning o'ziga xos versiyasi bo'lib,
+unda amalga oshiruvchilar konstruktorlar/setterlar/servicelarni qidirish orqali ob'ektga o'tkaziladi, ob'ektlar orasida "bog'liqlik" bo'ladi.
+
+c) Servlet - bu JAVA SE ustiga qurilgan JAVA EE bo'lib, dinamik veb sahifalar yaratish imkonini beruvchi class va interfacelardan tashkil topgan tashqi kutubxona.
+
+d)@Component - bu sinf darajasidagi annotatsiya, @Bean esa metod darajasidagi annotatsiya va metod nomi bean nomi sifatida xizmat qiladi.
+
+e) Session o'zgaruvchilar va ularning qiymatlarini serverdagi vaqtinchalik katalogdagi fayl ichida saqlaydi.
+Cookie fayllari foydalanuvchi kompyuterida matn fayli sifatida saqlanadi.
